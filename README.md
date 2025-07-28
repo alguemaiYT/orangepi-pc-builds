@@ -58,6 +58,16 @@ This build includes several performance-enhancing tweaks:
 
 ---------------------------------------------------------------------------
 
+## Downloads
+
+| Type | Link |
+|---|---|
+| Image | [Download](https://drive.google.com/file/d/1rb-oCZuCBP4XzXLHIPCqn8Jmm81UHoUK/view?usp=sharing) |
+| Debian Packages | [Download](https://drive.google.com/drive/folders/1QLNy4XrRNJsl0eQ9MLi_GPzPWxsgs-vf?usp=sharing) |
+| Config | [Download](https://drive.google.com/drive/folders/1Xi0FtBCE-D2IuIdEiS2J4rQ0vDdsDaMb?usp=sharing) |
+
+---------------------------------------------------------------------------
+
 # GNU GENERAL PUBLIC LICENSE
                        Version 2, June 1991
 
