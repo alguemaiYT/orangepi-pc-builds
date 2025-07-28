@@ -32,7 +32,7 @@ Generated with Armbian(tm) build framework https://github.com/armbian/build
 | Sources | https://github.com/armbian/build.git |
 | Sources rev | 67e4ab747-dirty |
 | Authors | https://www.armbian.com/authors |
-| Maintainer | John Doe <john.doe@somewhere.on.planet> |
+| Maintainer | Isaac Andrade <cooprevisaude@gmail.com> |
 | Support | https://community.armbian.com/ |
 
 ---------------------------------------------------------------------------
