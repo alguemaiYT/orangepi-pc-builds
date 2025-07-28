@@ -45,7 +45,7 @@ Generated with Armbian(tm) build framework https://github.com/armbian/build
 
 ## CPU configuration
 
-* 480000 - 1400000 with ondemand
+* 480000 - 1400000 with performance
 
 ## Performance Tweaks
 
@@ -65,6 +65,8 @@ This build includes several performance-enhancing tweaks:
 | Image | <a href="https://drive.google.com/file/d/1rb-oCZuCBP4XzXLHIPCqn8Jmm81UHoUK/view?usp=sharing" target="_blank">Download</a> |
 | Debian Packages | <a href="https://drive.google.com/drive/folders/1QLNy4XrRNJsl0eQ9MLi_GPzPWxsgs-vf?usp=sharing" target="_blank">Download</a> |
 | Config | <a href="https://drive.google.com/drive/folders/1Xi0FtBCE-D2IuIdEiS2J4rQ0vDdsDaMb?usp=sharing" target="_blank">Download</a> |
+=======
+
 
 ---------------------------------------------------------------------------
 
