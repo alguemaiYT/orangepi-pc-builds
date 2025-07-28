@@ -47,6 +47,9 @@ Generated with Armbian(tm) build framework https://github.com/armbian/build
 
 * 480000 - 1400000 with ondemand
 
+## Performance Tweaks
+* Timer frequency set to 1000Hz for improved performance.
+
 ---------------------------------------------------------------------------
 
 # GNU GENERAL PUBLIC LICENSE
