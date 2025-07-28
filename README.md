@@ -48,7 +48,13 @@ Generated with Armbian(tm) build framework https://github.com/armbian/build
 * 480000 - 1400000 with ondemand
 
 ## Performance Tweaks
-* Timer frequency set to 1000Hz for improved performance.
+
+This build includes several performance-enhancing tweaks:
+
+*   **Timer Frequency:** The kernel timer frequency is set to `1000Hz` for improved responsiveness and timer accuracy.
+*   **Performance-Optimized Kernel:** The kernel is compiled with optimizations for performance (`CONFIG_CC_OPTIMIZE_FOR_PERFORMANCE=y`).
+*   **"Performance" CPU Governor:** The CPU frequency governor is set to "performance" by default, ensuring the CPU always runs at its maximum frequency for optimal performance.
+*   **Zstandard Compression:** The Zstandard (`zstd`) compression algorithm is used for zswap and zram, providing a good balance between compression speed and ratio.
 
 ---------------------------------------------------------------------------
 
