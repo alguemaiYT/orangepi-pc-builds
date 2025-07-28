@@ -60,13 +60,11 @@ This build includes several performance-enhancing tweaks:
 
 ## Downloads
 
-You can find the download links for the build artifacts in the `downloads` directory.
-
-| Type | Path |
+| Type | Link |
 |---|---|
-| Image | [downloads/image/link.txt](downloads/image/link.txt) |
-| Debian Packages | [downloads/debian_packages/link.txt](downloads/debian_packages/link.txt) |
-| Config | [downloads/config/link.txt](downloads/config/link.txt) |
+| Image | [Download](https://drive.google.com/file/d/1rb-oCZuCBP4XzXLHIPCqn8Jmm81UHoUK/view?usp=sharing) |
+| Debian Packages | [Download](https://drive.google.com/drive/folders/1QLNy4XrRNJsl0eQ9MLi_GPzPWxsgs-vf?usp=sharing) |
+| Config | [Download](https://drive.google.com/drive/folders/1Xi0FtBCE-D2IuIdEiS2J4rQ0vDdsDaMb?usp=sharing) |
 
 ---------------------------------------------------------------------------
 
